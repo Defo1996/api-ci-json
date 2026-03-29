@@ -20,7 +20,7 @@ jobs:
         distribution: 'temurin'
 
     - name: Start SUT
-      run: |
+      run: chmod +x ./gradlew
         java -jar ./artifacts/app-mbank.jar &
         sleep 10
 
