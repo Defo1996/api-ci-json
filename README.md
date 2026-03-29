@@ -1,2 +1,1 @@
-[![CI Pipeline](https://github.com/Defo1996/api-ci/actions/workflows/ci.yml/badge.svg)](https://github.com/Defo1996/api-ci/actions/workflows/ci.yml)
-
+[![Java CI with Gradle](https://github.com/Defo1996/api-ci-json/actions/workflows/gradle.yml/badge.svg)](https://github.com/Defo1996/api-ci-json/actions/workflows/gradle.yml)
